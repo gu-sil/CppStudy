@@ -1,4 +1,4 @@
-# generous std::cin
+ generous std::cin
 
 ## 문제
 cin과 비슷하게 동작하지만 **잘못된 입력이 들어오면 에러 메세지를 출력**하고 **다시 입력을 받을 수 있는** cin을 구현하세요.
