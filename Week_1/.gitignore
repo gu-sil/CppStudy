@@ -1,3 +1,6 @@
 # FILES
 *.o
 a.out
+
+# Folders
+.vscode
